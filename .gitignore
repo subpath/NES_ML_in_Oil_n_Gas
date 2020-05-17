@@ -29,3 +29,5 @@ wheels/
 .DS_Store
 .vscode
 *.pyc
+
+*answers*
